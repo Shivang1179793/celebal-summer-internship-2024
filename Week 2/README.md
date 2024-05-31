@@ -77,5 +77,6 @@ Follow these testing steps to ensure the To-Do List component functions correctl
 ## Website
 Check out the live application: [To-Do List App](https://to-do-list-60.netlify.app/)
 
-![To-Do List App Screenshot]
+## To-Do List App Screenshot
+
 ![Screenshot (204)](https://github.com/Shivang1179793/celebal-summer-internship-2024/assets/91139730/45afb992-68c9-46b5-b9dc-671191642d9a)
